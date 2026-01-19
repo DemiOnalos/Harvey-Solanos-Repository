@@ -1,12 +1,12 @@
 ## Hi there 👋
-CIS221---My-Analytics-Application
+---My-Portfolio
 
 
 
 
 
 <!--
-**DemiOnalos/DemiOnalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Harvey Kim Solano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
